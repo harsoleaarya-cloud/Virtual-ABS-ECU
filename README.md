@@ -4,6 +4,7 @@ A simulation-based prototype of an automotive **Anti-lock Braking System (ABS)**
 
 **[Run the live simulation on Wokwi](https://wokwi.com/projects/476695993888708609)**
 
+**[Watch the demo video](https://github.com/harsoleaarya-cloud/Virtual-ABS-ECU/raw/main/virtual%20clip.mp4)**
 
 ---
 
